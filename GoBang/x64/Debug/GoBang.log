@@ -1,0 +1,6 @@
+﻿  Board.cpp
+C:\Users\刘乐章\Documents\Tencent Files\2084756060\FileRecv\GoBang (1)\GoBang\Board.cpp(125,10): warning C4305: “return”: 从“int”到“bool”截断
+  Player.cpp
+  main.cpp
+  正在生成代码...
+  GoBang.vcxproj -> C:\Users\刘乐章\Documents\Tencent Files\2084756060\FileRecv\GoBang (1)\GoBang\x64\Debug\GoBang.exe
