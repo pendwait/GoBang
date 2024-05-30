@@ -1,2 +1,6 @@
 F:\B23040408\course\GoBang\x64\Debug\GoBang.exe
 C:\Users\刘乐章\Documents\Tencent Files\2084756060\FileRecv\GoBang (1)\GoBang\x64\Debug\GoBang.exe
+F:\B23040408\answer\GoBang\x64\Debug\GoBang.exe
+D:\GoBang\x64\Debug\GoBang.exe
+F:\B23040408\exercise\GoBang\x64\Debug\GoBang.exe
+C:\Users\刘乐章\Documents\Tencent Files\2084756060\FileRecv\GoBang (3)\GoBang\x64\Debug\GoBang.exe

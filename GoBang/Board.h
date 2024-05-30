@@ -6,6 +6,7 @@ extern const int N;
 class Board
 {
 public:
+	Board* p;
 	vector<vector<int>> board;	//错误的定义  vector<int,vector<int> board;
 	//属性
 	int now_player;// 当前玩家（0表示玩家1黑子，1表示玩家2白子，2表示机器）

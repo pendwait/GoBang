@@ -15,8 +15,8 @@ Board Chess;
 int main() {
 	GameManager game;
 	game.select_mode();
-
 	Chess.show();
+	game.play_game(game.m);
 	return 0;
 }
 

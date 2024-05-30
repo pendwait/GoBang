@@ -8,6 +8,7 @@ public:
 	int& m = mode;
 	//方法
 	void select_mode();//进行模式的选择，确定m
+	void play_game(int& m);//主循环
 	void judge_game_over();
 };
 
